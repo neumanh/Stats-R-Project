@@ -2,7 +2,7 @@
 title: "R Notebook"
 author: Jessica Arrouasse and Hadas Neuman
 date: 29/04/2020
-output: html_document
+output: md_document
 ---
 # Final Exercise
 
