@@ -15,7 +15,7 @@ findFn("socsupport")
 ```
 We will install the package "DAAG":
 ```{r}
-install.packages("DAAG")
+#install.packages("DAAG")
 ```
 ## Question 2
 ### Section A
